@@ -118,6 +118,11 @@ textarea::-ms-input-placeholder { /* Microsoft Edge */
     line-height: 2rem;
 }
 
+.menu-img{
+    width: 160px;
+    height: 120px;
+}
+
 @media (min-width: 768px) {
     #tm-nav.scroll .tm-container {
         padding-top: 10px;
